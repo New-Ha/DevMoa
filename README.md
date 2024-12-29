@@ -6,8 +6,7 @@
 * 팀 명 : 기정사실화<br/>
 * 프로젝트명 : Hello, Developer<br/>
 * 프로젝트 소개 : 개발자들에게 도움이 되는 정보, 지식을 공유하는 개발자 커뮤니티 Hello Developer<br/>
-* 프로젝트 기간 : 2023.05.01 - 2023.05.31<br/>
-* 배포링크: http://mainmay.s3-website.ap-northeast-2.amazonaws.com/<br/>
+* 배포링크: * 배포링크: https://devmoa.vercel.app/ <br/><br/>
 
 <br/>
 
